@@ -1,0 +1,29 @@
+{
+  "name": "dont-panic",
+  "version": "1.0.0",
+  "description": "Animated Galaxy",
+  "main": "main.js",
+  "scripts": {
+    "test": "run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Parker06/Do-not-panic.git"
+  },
+  "keywords": [
+    "galaxy",
+    "animated",
+    "electron",
+    "css",
+    "javascript"
+  ],
+  "author": "Harry Parker",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Parker06/Do-not-panic/issues"
+  },
+  "homepage": "https://github.com/Parker06/Do-not-panic#readme",
+  "devDependencies": {
+    "electron": "^22.0.0"
+  }
+}
